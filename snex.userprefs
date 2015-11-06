@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scp/snex.cs">
+    <Files>
+      <File FileName="Assets/scp/snex.cs" Line="62" Column="46" />
+      <File FileName="Assets/scp/ged.cs" Line="1" Column="1" />
+      <File FileName="../Tiny/Assets/script/sapwline.cs" Line="1" Column="1" />
+      <File FileName="../bird/Assets/bird/scrip/bird.cs" Line="1" Column="1" />
+      <File FileName="../../../Tiny/Assets/script/playerr.cs" Line="1" Column="1" />
+      <File FileName="../../../Tiny/Assets/script/dsline.cs" Line="1" Column="1" />
+      <File FileName="../../../Tiny/Assets/skill/fireskill/fireskill.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
